@@ -79,7 +79,7 @@ A curated list of resources for learning about natural language processing, text
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
 - [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
-
+- [Natural Language Processing in Artificial Neural Networks Sentence analysis in medical papers](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8948103&fileOId=8948109)
 ## Blogs
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
 - [Sebastian Ruder](http://ruder.io/)
@@ -253,6 +253,8 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
 - [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding] (https://github.com/IBM/watson-banking-chatbot)
+- [IBM Project Debator](https://www.research.ibm.com/artificial-intelligence/project-debater/research/)
+
 
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
@@ -485,6 +487,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
+- [IBM Personalitu Insights API Demo](https://personality-insights-demo.ng.bluemix.net/)
+- [IBM Tone Analyzer Demo](https://tone-analyzer-demo.ng.bluemix.net/?cm_mc_uid=15686470563915511182688&cm_mc_sid_50200000=90453101551412214027&cm_mc_sid_52640000=15267481551412427068)
+- [IBM Watson Assistant Banking Chatbot Demo](https://watson-conversation-duo-dev.ng.bluemix.net/)
 
 ## Datasets
 
@@ -540,7 +545,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 ## Meta
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
-
+- [Arxiv Sanity by Andrej Karpathy (For Exploring NLP Papers)](http://www.arxiv-sanity.com/)
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp): State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
